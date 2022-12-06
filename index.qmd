@@ -48,7 +48,7 @@ The crude aggregation process is a bigger concern, and an inherent one. The ball
 
 When you ask opinionated, trained movie hounds about the greatest movie of all time, you get opinionated and idiosyncratic choices.  You don't get a real consensus.  
 
-The BFI generously posts individual ballots (universally available for 2022 in January, I'm told).,  In 2012 they provided a bit of demographic information about respondents (self-declared gender and nationality). In 2022, we can also break out the new voters from the old ones.  
+The BFI generously posts individual ballots (universally available for 2022 in January, I'm told). In 2012 they provided a bit of demographic information about respondents (self-declared gender and nationality). In 2022, we can also break out the new voters from the old ones.  
 
 I scraped the BFI website and created a dataset with all the voters and all the ballot choices.  Here's what struck me looking at support for *Vertigo* and *Citizen Kane* for 2012, and the 846 critics ballots:
 
