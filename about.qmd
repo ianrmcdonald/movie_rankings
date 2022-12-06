@@ -1,0 +1,18 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ianrmcdonald
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ian-mcdonald-5a078b7/
+    - icon: github
+      text: Data Repository (Github)
+      href: https://github.com/ianrmcdonald/bfi_poll
+---
+
+A blog about film criticism and film evaluation.
