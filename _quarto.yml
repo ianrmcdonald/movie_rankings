@@ -3,13 +3,18 @@ project:
 
 website:
   title: "Movie Rankings"
+  site-url: http://ianranksmovies.netlify.app
   navbar:
     right:
-      - about.qmd
-      - icon: github
+      - text: Blog
+        href: blog.qmd
+      - text: About
+        href: about.qmd
+      - icon: Github
         href: https://github.com/ianrmcdonald/bfi_poll
-      - icon: twitter
+      - icon: Twitter
         href: https://twitter.com/ianrmcdonald
+      
 format:
   html:
     theme: cosmo
