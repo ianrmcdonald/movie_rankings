@@ -13,12 +13,6 @@ My sense is that voters in 2012 voters knew that Vertigo might displace Citizen 
 
 Over time, I'll dig into these questions, with more vigor once the 2022 ballots are available. In the meantime, we might ask whether men or women are more likely to vote with the crowd or endorse movies that we might consider part of the traditional canon. The usual suspects from the 2002 top 10 were Citizen Kane, Vertigo, Tokyo Story, 2001, Rules of the Game, Potemkin, Sunrise, 8 1/2, Singin' in the Rain, and the Godfathers I and II (combined in that year's voting). Sight and Sound emphasized that Vertigo would have surpassed Kane with six more votes, albeit from a pool of only 145 voters.
 
-https://www.bfi.org.uk/sight-and-sound/polls/greatest-films-all-time/2002
-
-https://thependragonsociety.com/sight-sound-top-ten-directors-poll-2002/
-
-https://www.newyorker.com/culture/the-front-row/the-sight-and-sound-greatest-films-poll-presents-a-bolder-vision-of-world-cinema
-
 ## Co-Votes: How Much Do Critics Vote the Same Way?
 
 Since most of the movies were an idiosyncratic choice of one critic, let's ask: how many critics chose movies outside the canon? Does that tendency depend on gender? And if we change the gender composition, does that change the canon?
@@ -73,11 +67,11 @@ One kind of strategic voting might have been to select Vertigo while foregoing C
 
 Notice, first and foremost, that most of the critics chose neither: 547 of them, or 64.8%. Almost 2/3 of critics chose neither film in their top 10.
 
-| All Critics           | Didn't Choose Kane | Chose Kane | Total |
-|-----------------------|-------------------:|-----------:|------:|
-| Didn't Choose Vertigo |                547 |        108 |   655 |
-| Chose Vertigo         |                142 |         49 |   191 |
-| Total                 |                689 |        157 |   846 |
+| All Critics               | Didn't Choose Kane | Chose Kane | Total |
+|---------------------------|-------------------:|-----------:|------:|
+| **Didn't Choose Vertigo** |                547 |        108 |   655 |
+| **Chose Vertigo**         |                142 |         49 |   191 |
+| **Total**                 |                689 |        157 |   846 |
 
 Chi-sq: 7.62. p:.006
 
@@ -85,27 +79,27 @@ But was a vote for Vertigo independent of a vote for Kane, and vice versa? For b
 
 We would expect a number lower than 49 if voters are choosing them independently. In this case, it looks like people who choose Kane are more likely to choose Vertigo than other voters, and vice versa.
 
-| Male Critics          | Didn't Choose Kane | Chose Kane | Total |
-|-----------------------|-------------------:|-----------:|------:|
-| Didn't Choose Vertigo |                402 |         88 |   490 |
-| Chose Vertigo         |                110 |         43 |   153 |
-| Total                 |                512 |        131 |   643 |
+| Male Critics              | Didn't Choose Kane | Chose Kane | Total |
+|---------------------------|-------------------:|-----------:|------:|
+| **Didn't Choose Vertigo** |                402 |         88 |   490 |
+| **Chose Vertigo**         |                110 |         43 |   153 |
+| **Total**                 |                512 |        131 |   643 |
 
 Chi-sq: 6.78 p: .01
 
-| Female Critics        | Didn't Choose Kane | Chose Kane | Total |
-|-----------------------|-------------------:|-----------:|------:|
-| Didn't Choose Vertigo |                142 |         20 |   162 |
-| Chose Vertigo         |                 31 |          6 |    37 |
-| Total                 |                173 |         26 |   199 |
+| Female Critics            | Didn't Choose Kane | Chose Kane | Total |
+|---------------------------|-------------------:|-----------:|------:|
+| **Didn't Choose Vertigo** |                142 |         20 |   162 |
+| **Chose Vertigo**         |                 31 |          6 |    37 |
+| **Total**                 |                173 |         26 |   199 |
 
 Chi-sq: 0.13 p: .72
 
-| Unknown Gender Critics | Didn't Choose Kane | Chose Kane | Total |
-|------------------------|-------------------:|-----------:|------:|
-| Didn't Choose Vertigo  |                  3 |         \- |     3 |
-| Chose Vertigo          |                  1 |         \- |     1 |
-| Total                  |                  4 |         \- |     4 |
+| Unknown Gender Critics    | Didn't Choose Kane | Chose Kane | Total |
+|---------------------------|-------------------:|-----------:|------:|
+| **Didn't Choose Vertigo** |                  3 |         \- |     3 |
+| **Chose Vertigo**         |                  1 |         \- |     1 |
+| **Total**                 |                  4 |         \- |     4 |
 
 The important point in all of these matrix, aside from the number who didn't choose either film, is that men seem more likely to pair their votes for Kane and Vertigo than women. We can also see that women were simply less likely to choose Kane (26/199, or 13.1, vs. 131/643, or 20.4% for men). Women were somewhat less likely to choose Vertigo (37/199, or 18.6%, vs. 153/643, or 23.8% for men).
 
