@@ -23,7 +23,7 @@ Your vote for Vertigo is shared by 190 other critics. If you voted for Pink Flam
 
 How many of a critics votes were shared with other critics?
 
-Suppose you chose the top 10, perfectly, and your 10 choices reflected the sum of the highest vote getters. In 2012, that amount was 1,013. Subtract your own votes, and your ballot would have generated 1,013 co-votes, the hypothetical maximum.
+Suppose you chose the top 10, perfectly, and your 10 choices reflected the sum of the highest vote getters. In 2012, that amount was 1,013. Subtract your own votes, and your ballot would have generated 1,003 co-votes, the hypothetical maximum.
 
 What if your ballot was entirely drawn from the pool of 1,125 films with only one vote? Your co-votes would be zero.
 
@@ -37,7 +37,7 @@ Notice that only six of his 10 choices finished in the overall top 10 ranking.
 
 ![](/img/barrera.png)
 
-### The Ballot of Slavoj Zizek
+### The Ballot of Slavoj Žižek
 
 Of the three ballots[^1] with the fewest co-votes (just 2), one came from [renowned Slovenian philosopher and culture critic Slavoj Žižek](https://www2.bfi.org.uk/films-tv-people/sightandsoundpoll2012/voter/94). [^2]
 

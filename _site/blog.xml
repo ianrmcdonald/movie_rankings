@@ -125,7 +125,7 @@ No matching items
 <p>When studying voter network we look for connections between voters that might reveal clustering and shared intent. The first place to find a connection is shared vote for the same movie. The lists are unranked and we can’t say how much voters admire a shared movie, but we can see the sharing.</p>
 <p>Your vote for Vertigo is shared by 190 other critics. If you voted for Pink Flamingoes, your vote is shared with 1 other critic, and if you voted for Behind the Green Door, your vote was shared with no one. As noted else where, 1125 of the 2019 titles were chosen by just one critic.</p>
 <p>How many of a critics votes were shared with other critics?</p>
-<p>Suppose you chose the top 10, perfectly, and your 10 choices reflected the sum of the highest vote getters. In 2012, that amount was 1,013. Subtract your own votes, and your ballot would have generated 1,013 co-votes, the hypothetical maximum.</p>
+<p>Suppose you chose the top 10, perfectly, and your 10 choices reflected the sum of the highest vote getters. In 2012, that amount was 1,013. Subtract your own votes, and your ballot would have generated 1,003 co-votes, the hypothetical maximum.</p>
 <p>What if your ballot was entirely drawn from the pool of 1,125 films with only one vote? Your co-votes would be zero.</p>
 <p>A lot of co-votes reflects a ballot more aligned with the most popular choices. Few co-votes reflects more idiosyncrasy.</p>
 <section id="the-most-co-votes-gabriele-barrera" class="level3">
@@ -134,8 +134,8 @@ No matching items
 <p>Notice that only six of his 10 choices finished in the overall top 10 ranking.</p>
 <p><img src="http://ianranksmovies.netlify.app/img/barrera.png" class="img-fluid"></p>
 </section>
-<section id="the-ballot-of-slavoj-zizek" class="level3">
-<h3 class="anchored" data-anchor-id="the-ballot-of-slavoj-zizek">The Ballot of Slavoj Zizek</h3>
+<section id="the-ballot-of-slavoj-žižek" class="level3">
+<h3 class="anchored" data-anchor-id="the-ballot-of-slavoj-žižek">The Ballot of Slavoj Žižek</h3>
 <p>Of the three ballots<sup>1</sup> with the fewest co-votes (just 2), one came from <a href="https://www2.bfi.org.uk/films-tv-people/sightandsoundpoll2012/voter/94">renowned Slovenian philosopher and culture critic Slavoj Žižek</a>. <sup>2</sup></p>
 <p>Professor Žižek’s 2012 list is:</p>
 <p><img src="http://ianranksmovies.netlify.app/img/zizek.png" class="img-fluid"></p>
@@ -293,7 +293,7 @@ No matching items
 </ol>
 </section></div> ]]></description>
   <guid>http://ianranksmovies.netlify.app/posts/Who Picked the 2012 Canon/index.html</guid>
-  <pubDate>Wed, 21 Dec 2022 01:08:43 GMT</pubDate>
+  <pubDate>Wed, 21 Dec 2022 01:12:03 GMT</pubDate>
   <media:content url="http://ianranksmovies.netlify.app/img/barrera.png" medium="image" type="image/png" height="113" width="144"/>
 </item>
 </channel>
